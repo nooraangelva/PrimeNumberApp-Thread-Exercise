@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlkulukuLaskuja</string>
+    <string name="checkButtonText">Prime number?</string>
+    <string name="primeNumbersButtonText">Prime numbers</string>
+    <string name="inputHint">Write number</string>
+    <string name="divisionPrimeNumbersButtonText">divide to Prime numbers</string>
+</resources>
