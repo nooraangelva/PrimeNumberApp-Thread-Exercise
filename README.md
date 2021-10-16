@@ -1,8 +1,5 @@
 # PrimeNumberApp Thread Exercise
 
-![image](https://user-images.githubusercontent.com/78410623/137588122-420532bb-5fa2-4cbf-b792-503bbcd39a69.png)
-
-
  The task is to implement an application that can solve prime-related invoices.   The app has its own "workerthread" that calculates prime number calculations. The thread is started when the program starts. A communication route must be built between the UI and WorkerThread.
 
 
@@ -14,3 +11,6 @@ the desired number of prime numbers (the check must be done in WorkerThread, the
 The third functionality of the application can be used to determine the division of a number into factors (prime numbers)
 
 The user must be able to enter the desired number on the screen and press the button, in which case the application must find out the division into factors (the check must be done in WorkerThread, the result must be visible to the user)
+
+
+![image](https://user-images.githubusercontent.com/78410623/137588122-420532bb-5fa2-4cbf-b792-503bbcd39a69.png)
